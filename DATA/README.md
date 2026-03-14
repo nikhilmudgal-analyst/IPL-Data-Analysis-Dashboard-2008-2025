@@ -9,3 +9,5 @@ The `raw` folder contains the original IPL datasets before any processing or cle
 The `cleaned` folder contains the processed datasets after data cleaning using Python (Pandas).
 
 These cleaned datasets were used for building the Power BI dashboard.
+
+I take that data from Kaggle
