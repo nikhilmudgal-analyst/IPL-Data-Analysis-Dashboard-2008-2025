@@ -9,4 +9,5 @@ If you would like to explore the interactive dashboard, feel free to contact me.
 ## Contact
 
 **Name:** Nikhil Mudgal
+
 **LinkedIn:** www.linkedin.com/in/nikhilmudgal-analyst
