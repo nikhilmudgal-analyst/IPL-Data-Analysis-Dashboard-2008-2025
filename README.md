@@ -97,6 +97,6 @@ Nikhil Mudgal
 
 ## Dashboard Preview
 
-![image alt](Dashboard/ipl_match_powerbi_image.pdf)
+![image alt](https://github.com/nikhilmudgal-analyst/IPL-Data-Analysis-Dashboard-2008-2025/blob/6fea8db3745fb1c0beff28a0bcd3f626b219e92c/Dashboard/dashboard_preview.png)
 
 
