@@ -80,14 +80,6 @@ images
 
 * Dashboard screenshots used in documentation
 
----
-
-## Dashboard Preview
-
-![image alt](https://github.com/nikhilmudgal-analyst/IPL-Data-Analysis-Dashboard-2008-2025/blob/4b3a27377f58069b08319525649fa49652706503/Dashboard/ipl_match_powerbi_image.pdf)
-
----
-
 ## Dashboard Access
 
 The full Power BI dashboard file is not publicly shared.
@@ -100,3 +92,11 @@ LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
 ## Author
 
 Nikhil Mudgal
+
+---
+
+## Dashboard Preview
+
+![image alt](https://github.com/nikhilmudgal-analyst/IPL-Data-Analysis-Dashboard-2008-2025/blob/4b3a27377f58069b08319525649fa49652706503/Dashboard/ipl_match_powerbi_image.pdf)
+
+
